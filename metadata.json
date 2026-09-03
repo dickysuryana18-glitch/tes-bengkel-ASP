@@ -1,0 +1,6 @@
+{
+  "name": "AutoCare ERP",
+  "description": "Enterprise ERP for Body Repair & General Repair workshops (Bengkel Pro).",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
